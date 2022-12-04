@@ -1,3 +1,3 @@
 # Point-Cloud-operations
 
-Various algortihms that can be used to work on point clouds like clustering, segmentation etc.
+Implementation of various algortihms for clustering, segmentation, cropping etc that can be used to work on point clouds
